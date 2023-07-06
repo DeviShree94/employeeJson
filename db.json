@@ -1,0 +1,19 @@
+{
+  users: [
+    {
+      "id":1,
+      "name": "John",
+      "email" : "john1242@gmail.com",
+      "phone" : "(562)357-6788",
+      "address" : "89, chinro Rd, Portland, USA",
+      "role": "employee"
+    },
+    {
+      "id":2,
+      "name": "Jonny",
+      "email" : "jonny1242@gmail.com",
+      "phone" : "(562)387-5432",
+      "address" : "89, chinro Rd, spain, UK",
+      "role": "employee"
+    }
+  ]
